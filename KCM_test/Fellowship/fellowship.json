@@ -1,0 +1,25 @@
+[
+    {
+        "id": "2b732312-0285-4185-b487-81dfba73266f",
+        "name": "Post-GM Fellowship",
+        "items": [
+            {
+                "id": "4f5644cd-cf73-4a5c-b356-8ff4322578c0",
+                "name": "Tacos",
+                "address": "1234 Main St",
+                "signup": "link1",
+                "rides": "link2",
+                "contact": "inreach1"
+            },
+            {
+                "id": "38085d75-16ad-40b2-a3bc-5583d9576cf5",
+                "name": "Bowling",
+                "address": "1234 Main St",
+                "signup": "link1",
+                "rides": "link2",
+                "contact": "inreach2"
+            }
+        ]
+    }
+]
+

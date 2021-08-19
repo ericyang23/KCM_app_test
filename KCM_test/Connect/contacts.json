@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Contact Us",
+        "id": "00ea345f-d63d-48ea-b4ed-4cb9cc75b219",
+        "items": [
+            {
+                "id": "55e3c4bf-abaa-4cc2-ab53-427d70cf08c2",
+                "name": "Small Group Core",
+                "email": "abc@usc.edu",
+                "contact": "Name 1",
+                "phone": "123-456-7890"
+            },
+            {
+                "id": "d30641c6-3040-4825-9dd8-a6e447cac030",
+                "name": "Praise Core",
+                "email": "def@usc.edu",
+                "contact": "Name 2",
+                "phone": "123-456-7890"
+            },
+            {
+                "id": "0b95b8a3-706a-4af8-9bb3-60e0502e36c4",
+                "name": "Inreach Core",
+                "email": "ghi@usc.edu",
+                "contact": "Name 3",
+                "phone": "123-456-7890"
+            },
+            {
+                "id": "47412f74-8513-4ba0-87fe-8c35843b4f41",
+                "name": "Outreach Core",
+                "email": "jkl@usc.edu",
+                "contact": "Name 4",
+                "phone": "123-456-7890"
+            }
+        ]
+    }
+]

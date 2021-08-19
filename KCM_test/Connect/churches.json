@@ -1,0 +1,179 @@
+[
+    {
+        "id": "4c957843-1973-4016-b2fd-e2f100203c54",
+        "name": "Churches",
+        "items": [
+            {
+                "id": "d92c1ca4-5734-4055-b598-03066102c207",
+                "name": "All Nations Community Church",
+                "address": "10000 Foothill Blvd, Lake View Terrace, CA 91342",
+                "contact": "Christopher Lee",
+                "phone": "661-670-6992",
+                "sunday": "11 AM",
+                "friday": "7 PM"
+            },
+            {
+                "id": "331fc6cc-895f-4abd-9eef-d067c4721735",
+                "name": "Ark Maker's Community Church",
+                "address": "9765 Mason Ave., Chatsworth, CA 91311",
+                "contact": "James Kim",
+                "phone": "818-523-3776",
+                "sunday": "11 AM",
+                "friday": "7 PM"
+            },
+            {
+                "id": "de56fde4-8b1f-409a-8376-3f898e831ffd",
+                "name": "Cerritos Mission Church",
+                "address": "12413 195th St, Cerritos, CA 90703",
+                "contact": "Isaiah Cho",
+                "phone": "714-943-6864",
+                "sunday": "11 AM",
+                "friday": "7 PM"
+            },
+            {
+                "id": "907a4be2-a7e2-4747-8dcf-e71276e004f0",
+                "name": "Church Everyday",
+                "address": "17015 Devonshire St., Northridge, CA 91351",
+                "contact": "Nathan Ko",
+                "phone": "213-820-4092",
+                "sunday": "11 AM",
+                "friday": "7 PM"
+            },
+            {
+                "id": "8a4912d1-7f5f-45ad-b2bb-c3dc95c423dc",
+                "name": "Citizens LA",
+                "address": "1200 Colton St. Los Angeles, CA 90012",
+                "contact": "Danny Kim",
+                "phone": "989-941-9845",
+                "sunday": "11 AM",
+                "friday": "7 PM"
+            },
+            {
+                "id": "e449711a-4774-42c3-80d4-de7ab3fde29e",
+                "name": "Fullerton Presbyterian Church",
+                "address": "511 S Brookhurst Road, Fullerton, CA 92833",
+                "contact": "Emily Kim",
+                "phone": "657-478-8989",
+                "sunday": "11 AM",
+                "friday": "7 PM"
+            },
+            {
+                "id": "96654cf8-742a-43b4-bb06-61a46868ef77",
+                "name": "Glory Church LA",
+                "address": "1801 S Grand Ave Los Angeles, CA 90007",
+                "contact": "Eunice Rhee",
+                "phone": "831-277-3920",
+                "sunday": "11 AM",
+                "friday": "7 PM"
+            },
+            {
+                "id": "80d36a5f-ef14-473b-9f79-7da413363bed",
+                "name": "Good Stewards Church",
+                "address": "2701 S Woodgate Dr, West Covina, CA 91792",
+                "contact": "Michael Moon",
+                "phone": "714-833-8817",
+                "sunday": "11 AM",
+                "friday": "7 PM"
+            },
+            {
+                "id": "f4290b93-8a0a-486d-a26d-c43892b37371",
+                "name": "Hana Church",
+                "address": "7951 Commonwealth Ave Buena Park, CA 90621",
+                "contact": "Elisa Park ",
+                "phone": "714-476-9700",
+                "sunday": "11 AM",
+                "friday": "7 PM"
+            },
+            {
+                "id": "64b6341b-fd44-4e54-b50e-f08e23180fd8",
+                "name": "LA Open Door Community Church",
+                "address": "1218 S Fairfax Ave, Los Angeles, CA 90019",
+                "contact": "Matthew Cho",
+                "phone": "408-680-1222",
+                "sunday": "11 AM",
+                "friday": "7 PM"
+            },
+            {
+                "id": "0fe15f57-5217-41ba-a030-34952aecf653",
+                "name": "LA Sarang Community Church",
+                "address": "2610 W Olympic Blvd, Los Angeles, CA 90006",
+                "contact": "Jamine Kang",
+                "phone": "213-434-9499",
+                "sunday": "11 AM",
+                "friday": "7 PM"
+            },
+            {
+                "id": "4153f6f3-0119-4294-9dd4-b12a912823f6",
+                "name": "Living Hope Community Church",
+                "address": "1215 W Lambert Rd, Brea, CA 92821",
+                "contact": "Jane Ho",
+                "phone": "714-928-3642",
+                "sunday": "11 AM",
+                "friday": "7 PM"
+            },
+            {
+                "id": "c6e8e75f-3712-455f-825b-05f0feba59c3",
+                "name": "NewStory Church",
+                "address": "150 W Jefferson Blvd, LA 90015",
+                "contact": "Christina Cha",
+                "phone": "213-446-6545",
+                "sunday": "11 AM",
+                "friday": "7 PM"
+            },
+            {
+                "id": "2c04dbe9-4f3b-4b7d-a235-96ac83dec4b4",
+                "name": "Oriental Mission Church",
+                "address": "424 N Western Ave Los Angeles CA 90004",
+                "contact": "Kaila An",
+                "phone": "714-872-7358",
+                "sunday": "11 AM",
+                "friday": "7 PM"
+            },
+            {
+                "id": "a98b2935-d2d3-42d3-ac74-2dccd25c4207",
+                "name": "Reality LA",
+                "address": "1309 N Wilton Pl, Los Angeles, CA 90028",
+                "contact": "Erin Chang",
+                "phone": "818-331-7710",
+                "sunday": "11 AM",
+                "friday": "7 PM"
+            },
+            {
+                "id": "5a4abc63-867f-4f1a-8ae8-6c5288e44e6d",
+                "name": "Shalom Church of Southern California",
+                "address": "20050 S. Vermont Ave, Torrance, CA 90502",
+                "contact": "Kevin Choi (Vinni)",
+                "phone": "213-249-4804",
+                "sunday": "11 AM",
+                "friday": "7 PM"
+            },
+            {
+                "id": "08ee3373-efe5-4993-9930-d0bb5c37a6d1",
+                "name": "Tapestry LA",
+                "address": "1501 Hill St, Los Angeles, CA 90015",
+                "contact": "Hannah Chiang",
+                "phone": "657-217-9040",
+                "sunday": "11 AM",
+                "friday": "7 PM"
+            },
+            {
+                "id": "3c8dffb7-7782-4186-859c-b7ca1c1d2ec1",
+                "name": "The Vine Church of Eagle Rock",
+                "address": "2057 Fair Park Ave, Los Angeles, CA 90041",
+                "contact": "Nathan Cho",
+                "phone": "415-672-8865",
+                "sunday": "11 AM",
+                "friday": "7 PM"
+            },
+            {
+                "id": "503e342a-231c-4944-a6b8-a70df8e3dab9",
+                "name": "Youngnak Church",
+                "address": "18 Barranca St, Los Angeles, CA 90031",
+                "contact": "John Kang",
+                "phone": "‭213-500-1354‬",
+                "sunday": "11 AM",
+                "friday": "7 PM"
+            }
+        ]
+    }
+]

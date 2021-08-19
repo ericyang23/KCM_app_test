@@ -1,0 +1,28 @@
+[
+    {
+        "id": "EF1CC5BB-4785-4D8E-AB98-5FA4E00B6A66",
+        "name": "Announcements",
+        "items": [
+            {
+                "id": "EDCD038C-036F-4C40-826F-61C88CD84DDD",
+                "name": "Announcement 1",
+                "description": "Description of announcement"
+            },
+            {
+                "id": "36A7CC40-18C1-48E5-BCD8-3B42D43BEAEE",
+                "name": "Announcement 2",
+                "description": "Description of announcement"
+            },
+            {
+                "id": "CFB8C2DB-3478-4A10-92FA-3D2A2D5324FB",
+                "name": "Announcement 3",
+                "description": "Description of announcement"
+            },
+            {
+                "id": "8903A204-F5C1-4D5C-A0A1-5C0ECD27FDD7",
+                "name": "Announcement 4",
+                "description": "Description of announcement"
+            }
+        ]
+    }
+]
