@@ -13,7 +13,7 @@ struct ContactDetail: View {
     var body: some View {
         VStack{
             HStack{
-                Text("Contact:")
+                Text("Name:")
                     .padding(.top)
                 Text(item.contact)
                     .padding([.top, .trailing])

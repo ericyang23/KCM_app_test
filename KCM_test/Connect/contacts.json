@@ -5,30 +5,58 @@
         "items": [
             {
                 "id": "55e3c4bf-abaa-4cc2-ab53-427d70cf08c2",
-                "name": "Small Group Core",
+                "name": "Missions Core",
                 "email": "abc@usc.edu",
-                "contact": "Name 1",
+                "contact": "Nicole Park",
                 "phone": "123-456-7890"
             },
             {
                 "id": "d30641c6-3040-4825-9dd8-a6e447cac030",
                 "name": "Praise Core",
                 "email": "def@usc.edu",
-                "contact": "Name 2",
+                "contact": "Chaerim Park",
+                "phone": "123-456-7890"
+            },
+            {
+                "id": "9be8609c-bebd-4cee-95e4-085ff7f5aadf",
+                "name": "Prayer Core",
+                "email": "jkl@usc.edu",
+                "contact": "Enoch Chung",
                 "phone": "123-456-7890"
             },
             {
                 "id": "0b95b8a3-706a-4af8-9bb3-60e0502e36c4",
                 "name": "Inreach Core",
                 "email": "ghi@usc.edu",
-                "contact": "Name 3",
+                "contact": "Kaila An",
                 "phone": "123-456-7890"
             },
             {
                 "id": "47412f74-8513-4ba0-87fe-8c35843b4f41",
                 "name": "Outreach Core",
                 "email": "jkl@usc.edu",
-                "contact": "Name 4",
+                "contact": "Lauren Han",
+                "phone": "123-456-7890"
+            },
+            {
+                "id": "8aa4e486-b72f-42db-a632-595226def43d",
+                "name": "VAM Core",
+                "email": "def@usc.edu",
+                "contact": "Nathan Ko",
+                "phone": "123-456-7890"
+            },
+            {
+                "id": "68448789-4886-432b-819a-7bfee669a984",
+                "name": "Girls Small Group Core",
+                "email": "Alexis Chyun",
+                "contact": "Name 3",
+                "phone": "123-456-7890"
+            },
+            {
+                "id": "c7af71f9-1221-4c2a-8455-4cc38538cc9e",
+                "name": "Guys Small Group Core",
+                "email": "jkl@usc.edu",
+                "contact": "John Kang",
                 "phone": "123-456-7890"
             }
         ]

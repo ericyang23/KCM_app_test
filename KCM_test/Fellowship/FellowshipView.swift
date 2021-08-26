@@ -66,7 +66,7 @@ struct FellowshipView: View {
             }
             .padding(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
             HStack{
-                Text("Questions? Message Inreach1 at ")
+                Text("Questions? Message Kaila at")
                 Spacer()
             }
             .padding([.top, .leading, .trailing])

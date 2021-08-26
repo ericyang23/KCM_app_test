@@ -34,7 +34,7 @@ extension Visit: Identifiable {
 extension Visit {
 
     static func mock(withDate date: Date) -> Visit {
-        Visit(locationName: "Event",
+        Visit(locationName: "Event1",
               tagColor: .randomColor,
               //start time
               arrivalDate: date,
@@ -46,6 +46,12 @@ extension Visit {
         currentCalendar.generateVisits(
             start: start,
             end: end)
+    }
+    static func mnp(withDate date: Date) -> Visit {
+        Visit(locationName: "MNP",
+              tagColor: .blue,
+              arrivalDate: date,
+              departureDate: date.addingTimeInterval(60*60))
     }
 
 }

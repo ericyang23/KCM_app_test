@@ -26,6 +26,13 @@ struct HomeView: View {
             }
             NavigationView {
                 List {
+                    Section(header: Text("Mission Statement")) {
+                        Text("Hi this is supposed to be the mission statement for KCM")
+                            .lineSpacing(/*@START_MENU_TOKEN@*/6.0/*@END_MENU_TOKEN@*/)
+                            
+                            
+                    }
+                
                     ForEach(home) { section in
                         Section(header: Text(section.name)) {
                         
@@ -36,6 +43,7 @@ struct HomeView: View {
                             }
                         }
                     }
+                    
                     ForEach(events) { section in
                         Section(header: Text(section.name)) {
 
@@ -46,12 +54,15 @@ struct HomeView: View {
                             }
                         }
                     }
+                    
                     Section(header: Text("Forms")) {
-                        Link("Prayer Request Form", destination: URL(string: "https://www.apple.com")!)
+                        Link("Prayer Request Form", destination: URL(string: "https://docs.google.com/spreadsheets/d/1d5vABYK-dWYJd5YJ4Yq3OfHPoSmXONBcBxHfx6lsPyA/edit#gid=0")!)
                             .foregroundColor(Color(red: 1.0, green: 0.75, blue: 0.0, opacity: 1.0))
-                        Link("STSM App", destination: URL(string: "https://www.apple.com")!)
+                        Link("Small Group App", destination: URL(string: "https://docs.google.com/spreadsheets/d/1d5vABYK-dWYJd5YJ4Yq3OfHPoSmXONBcBxHfx6lsPyA/edit#gid=0")!)
                             .foregroundColor(Color(red: 1.0, green: 0.75, blue: 0.0, opacity: 1.0))
-                        Link("Amor App", destination: URL(string: "https://www.apple.com")!)
+                        Link("STSM App", destination: URL(string: "https://docs.google.com/spreadsheets/d/1d5vABYK-dWYJd5YJ4Yq3OfHPoSmXONBcBxHfx6lsPyA/edit#gid=0")!)
+                            .foregroundColor(Color(red: 1.0, green: 0.75, blue: 0.0, opacity: 1.0))
+                        Link("Amor App", destination: URL(string: "https://docs.google.com/spreadsheets/d/1d5vABYK-dWYJd5YJ4Yq3OfHPoSmXONBcBxHfx6lsPyA/edit#gid=0")!)
                             .foregroundColor(Color(red: 1.0, green: 0.75, blue: 0.0, opacity: 1.0))
                         }
                 }

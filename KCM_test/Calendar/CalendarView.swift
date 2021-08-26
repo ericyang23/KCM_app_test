@@ -89,7 +89,7 @@ extension CalendarView: ElegantCalendarDelegate {
 struct CalendarView_Previews: PreviewProvider {
     static var previews: some View {
         //DarkThemePreview{
-            CalendarView(ascVisits: Visit.mocks(start: .DaysFromToday(-365*2), end: .DaysFromToday(365*2)), initialMonth: nil)
+            CalendarView(ascVisits: Visit.mocks(start: .DaysFromToday(-365*1), end: .DaysFromToday(365*1)), initialMonth: nil)
         //}
     }
 }

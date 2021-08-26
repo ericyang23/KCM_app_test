@@ -58,6 +58,8 @@ struct ConnectView: View {
                             .foregroundColor(.purple)
                         Link("YouTube", destination: URL(string: "https://www.youtube.com/channel/UCqDnVQj6Fk4KIUluZjJilrQ/featured")!)
                             .foregroundColor(.red)
+                        Link("Discord", destination: URL(string: "https://discord.gg/N6sVqR6S")!)
+                            .foregroundColor(Color("royalBlue"))
                         
                         
                     }
