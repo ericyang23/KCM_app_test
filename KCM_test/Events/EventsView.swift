@@ -14,10 +14,10 @@ struct EventsView: View {
             NavigationView {
                 List {
                     Section(header: Text("Sign-Up Links")) {
-                        Link("Freshman In N Out", destination: URL(string: "https://docs.google.com/spreadsheets/d/1d5vABYK-dWYJd5YJ4Yq3OfHPoSmXONBcBxHfx6lsPyA/edit#gid=0")!)
+                        Link("Freshman In N Out", destination: URL(string: "https://forms.gle/o4kr9RU6M5pBbQw17")!)
                             .foregroundColor(Color.purple)
                         
-                        Link("Beach Day", destination: URL(string: "https://docs.google.com/spreadsheets/d/1d5vABYK-dWYJd5YJ4Yq3OfHPoSmXONBcBxHfx6lsPyA/edit#gid=0")!)
+                        Link("Beach Day", destination: URL(string: "https://forms.gle/2a6mMzA5K38ct1SP9")!)
                             .foregroundColor(.blue)
                         
                         Link("Missions Rally Night", destination: URL(string: "https://docs.google.com/spreadsheets/d/1d5vABYK-dWYJd5YJ4Yq3OfHPoSmXONBcBxHfx6lsPyA/edit#gid=0")!)

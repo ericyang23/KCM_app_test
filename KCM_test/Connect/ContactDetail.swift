@@ -30,7 +30,8 @@ struct ContactDetail: View {
             HStack{
                 Text("Email:")
                     .padding(.top)
-                Text(item.email)
+                Link(item.email, destination: URL(string: "mailto:"+item.email)!)
+                    .foregroundColor(/*@START_MENU_TOKEN@*/.blue/*@END_MENU_TOKEN@*/)
                     .padding([.top, .trailing])
             }
             

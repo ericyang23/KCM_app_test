@@ -35,7 +35,7 @@ struct FellowshipView: View {
             //CustomDivider()
             Text("This Week's Fellowship:")
                 .padding(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
-            Text("(image from VAM)")
+            Text("(image from VAM here)")
                 .padding(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
             VStack{
                 Text("Date: 9/15/21")
@@ -46,7 +46,7 @@ struct FellowshipView: View {
             
             HStack(){
                 Text("Signup Link:")
-                Link("Sign Up Here!", destination: URL(string: "https://www.apple.com")!)
+                Link("Sign Up Here!", destination: URL(string: "https://docs.google.com/forms/d/e/1FAIpQLSczQvyww9EV_8gG0rRhShDZ6LbyPojuO9-13nlR9hZlkk5ntw/viewform")!)
                     .foregroundColor(.red)
                 Spacer()
             }
@@ -54,7 +54,7 @@ struct FellowshipView: View {
             
             HStack{
                 Text("Rides Spreadsheet:")
-                Link("Check Your Ride!", destination: URL(string: "https://www.apple.com")!)
+                Link("Check Your Ride!", destination: URL(string: "https://docs.google.com/spreadsheets/d/1inmsMoJ6clrs1ofsMcvMBjhqwuEklV4J0aUHGN9gOyU/edit#gid=0")!)
                     .foregroundColor(.red)
                 Spacer()
             }

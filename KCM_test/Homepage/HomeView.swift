@@ -61,7 +61,7 @@ struct HomeView: View {
                         Link("STSM App", destination: URL(string: "https://docs.google.com/spreadsheets/d/1d5vABYK-dWYJd5YJ4Yq3OfHPoSmXONBcBxHfx6lsPyA/edit#gid=0")!)
                             .foregroundColor(Color(red: 1.0, green: 0.75, blue: 0.0, opacity: 1.0))
                         
-                        Link("Amor App", destination: URL(string: "https://docs.google.com/spreadsheets/d/1d5vABYK-dWYJd5YJ4Yq3OfHPoSmXONBcBxHfx6lsPyA/edit#gid=0")!)
+                        Link("Amor App", destination: URL(string: "https://docs.google.com/forms/d/e/1FAIpQLSekJ7DC-tMhi2xkkuqWk8x3bTgcIj5EszHGuCKI_RJIgXpUAw/viewform?usp=sf_link")!)
                             .foregroundColor(Color(red: 1.0, green: 0.75, blue: 0.0, opacity: 1.0))
                         }
                 }
