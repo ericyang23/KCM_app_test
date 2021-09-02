@@ -45,7 +45,6 @@ struct FellowshipView: View {
             }
             HStack(){
                 Text("Signup Link:")
-                Text("link1")
                 Link("Sign Up Here!", destination: URL(string: "https://www.apple.com")!)
                     .foregroundColor(.red)
                 Spacer()

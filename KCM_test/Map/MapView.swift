@@ -17,10 +17,10 @@ struct MapView: View {
     @State private var region = MKCoordinateRegion(
         
         //center location of the map when first loaded
-        center: CLLocationCoordinate2D(latitude: 34.02209743127725, longitude: -118.28424189401113),
+        center: CLLocationCoordinate2D(latitude: 34.021509485037576, longitude: -118.28676096216154),
         
         //range of the map when first loaded
-        span: MKCoordinateSpan(latitudeDelta: 0.005, longitudeDelta: 0.005)
+        span: MKCoordinateSpan(latitudeDelta: 0.005, longitudeDelta: 0.01)
     )
     
     //adding location annotations
@@ -35,9 +35,9 @@ struct MapView: View {
         
         //array of location objects
         let locations = [
-            Location(title: "FA", latitude: 34.02188261336583, longitude: -118.28473888744163),
+            Location(title: "FA", latitude: 34.022469213915926, longitude: -118.28444088443933),
             Location(title: "Leavey", latitude: 34.021713799868, longitude: -118.2827930474238),
-            Location(title: "GM", latitude: 34.02224481313162, longitude: -118.28425962797209),
+            Location(title: "GM", latitude: 34.01940433730312, longitude: -118.28953947164099),
             Location(title: "Dulce", latitude: 34.025378084995985, longitude: -118.2853024876186),
             Location(title: "MNP", latitude: 34.02131778881269, longitude: -118.28443474354447)
         ]

@@ -16,15 +16,20 @@ struct MainView: View {
                     Label("Home", systemImage: "house")
                 }
             
-            CalendarView(
-                    ascVisits: Visit.mocks(
-                    start: .DaysFromToday(-30*36),
-                    end: .DaysFromToday(30*36)),
-                    initialMonth: Date()
-                )
-                .tabItem{
-                    Label("Calendar", systemImage: "calendar")
+            EventsView()
+                .tabItem {
+                    Label("Events", systemImage: "calendar")
                 }
+            
+//            CalendarView(
+//                    ascVisits: Visit.mocks(
+//                    start: .DaysFromToday(-30*36),
+//                    end: .DaysFromToday(30*36)),
+//                    initialMonth: Date()
+//                )
+//                .tabItem{
+//                    Label("Calendar", systemImage: "calendar")
+//                }
             
             FellowshipView(
                 )
