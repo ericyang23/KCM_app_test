@@ -43,6 +43,7 @@ struct FellowshipView: View {
                 Spacer()
                     .frame(height: 50)
             }
+            
             HStack(){
                 Text("Signup Link:")
                 Link("Sign Up Here!", destination: URL(string: "https://www.apple.com")!)
@@ -50,6 +51,7 @@ struct FellowshipView: View {
                 Spacer()
             }
             .padding(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
+            
             HStack{
                 Text("Rides Spreadsheet:")
                 Link("Check Your Ride!", destination: URL(string: "https://www.apple.com")!)
@@ -57,6 +59,7 @@ struct FellowshipView: View {
                 Spacer()
             }
             .padding(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
+            
             HStack{
                 Text("Address:")
                 Link("1234 Main St", destination: URL(string: "https://www.google.com/maps")!)
@@ -64,11 +67,13 @@ struct FellowshipView: View {
                 Spacer()
             }
             .padding(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
+            
             HStack{
                 Text("Questions? Message Kaila at")
                 Spacer()
             }
             .padding([.top, .leading, .trailing])
+            
             HStack{
                 Link("123-456-7890", destination: URL(string: "imessage:1234567890")!)
                     .foregroundColor(.blue)

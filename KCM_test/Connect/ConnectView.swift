@@ -52,16 +52,18 @@ struct ConnectView: View {
                     Section(header: Text("Socials")) {
                         Link("Spotify", destination: URL(string: "https://open.spotify.com/user/vvvktk9au1ql8r1ffgcg8phw2?si=8S5WRtS8SQ2Xl5Q1Zsr2MA&nd=1")!)
                             .foregroundColor(.green)
+                        
                         Link("Facebook", destination: URL(string: "https://www.facebook.com/usckcm/")!)
                             .foregroundColor(.blue)
+                        
                         Link("Instagram", destination: URL(string: "https://www.instagram.com/usckcm/")!)
                             .foregroundColor(.purple)
+                        
                         Link("YouTube", destination: URL(string: "https://www.youtube.com/channel/UCqDnVQj6Fk4KIUluZjJilrQ/featured")!)
                             .foregroundColor(.red)
+                        
                         Link("Discord", destination: URL(string: "https://discord.gg/N6sVqR6S")!)
                             .foregroundColor(Color("royalBlue"))
-                        
-                        
                     }
                 }
                 .listStyle(GroupedListStyle())
